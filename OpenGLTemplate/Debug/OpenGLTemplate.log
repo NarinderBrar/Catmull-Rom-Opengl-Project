@@ -1,0 +1,28 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CCatmullRom.cpp
+d:\projects\02_under_process\catmullrom\catmullrom-opengl-project\opengltemplate\include\glm\gtx\string_cast.inl(30): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1467): note: see declaration of 'vsprintf'
+d:\projects\02_under_process\catmullrom\catmullrom-opengl-project\opengltemplate\ccatmullrom.cpp(330): warning C4018: '<': signed/unsigned mismatch
+  Cubemap.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+d:\projects\02_under_process\catmullrom\catmullrom-opengl-project\opengltemplate\include\glm\gtx\string_cast.inl(30): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1467): note: see declaration of 'vsprintf'
+d:\projects\02_under_process\catmullrom\catmullrom-opengl-project\opengltemplate\game.cpp(422): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\projects\02_under_process\catmullrom\catmullrom-opengl-project\opengltemplate\game.cpp(462): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\projects\02_under_process\catmullrom\catmullrom-opengl-project\opengltemplate\game.cpp(465): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  PlayerTransform.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating Code...
+  OpenGLTemplate.vcxproj -> D:\Projects\02_Under_Process\CatmullRom\catmullrom-opengl-project\Debug\OpenGLTemplate.exe
